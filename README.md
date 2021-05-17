@@ -1,5 +1,5 @@
 # AUTOSNAP
-The computer plays snap with itself, George and Desmond. This is a coding task submitted for a Trainee Developer placement at Mkodo
+The computer plays snap with itself via George and Desmond. This is a coding task submitted for a Trainee Developer placement at Mkodo
 -
 main contains the core game loop, initial set up and supporting methods.
 
